@@ -1,0 +1,24 @@
+[General]
+Date and time="22/08/2022,07:04 p.m."
+Dash Version=3.0
+Device #=1
+# of bits=1
+Sampling rate=10000
+Pts per sweep=21000
+Sweeps/buffer=10
+# of active chans=2
+Comment=""
+[Chan properties]
+Active chans in order=0,1,
+V ranges=0,0,
+Chan Gains=100,100,
+Chan names="chamber 1,chamber 2,"
+Chan units="mV      ,mV      ,"
+Display offsets=0.000000,0.000000,
+Display scales=1.000000,1.000000,
+color array=16728320,789516,
+1000 x disp gain=1,1,
+Zero line=0,0,
+[Display properties]
+Display X grid=TRUE
+Display Y grid=TRUE
